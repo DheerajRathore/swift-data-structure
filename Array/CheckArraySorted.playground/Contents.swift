@@ -8,9 +8,7 @@
  */
 
 func checkIfArrayIsSorted(_ arr: [Int]) -> Bool {
-    
     for i in 1..<arr.count {
-        
         if arr[i] < arr[i-1] {
             return false
         }
