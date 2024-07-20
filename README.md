@@ -13,18 +13,18 @@ This repository contains implementations of various data structures using the Sw
 
 # Problem Sources
 The problems solved in this repository are sourced from popular coding platforms, including:
- LeetCode
- HackerRank
+	•	LeetCode
+	•	HackerRank
 
 These platforms offer a wide range of data structure and algorithm challenges that help improve coding skills and understanding of fundamental computer science concepts.
 
 # Contributing
 We welcome contributions from the community! If you'd like to add new data structure implementations, improve existing ones, or fix bugs, please feel free to:
-Fork the repository
-Create a new branch for your feature
-Commit your changes
-Push to the branch
-Create a new Pull Request
+    •	Fork the repository
+	•	Create a new branch for your feature
+	•	Commit your changes
+	•	Push to the branch
+	•	Create a new Pull Request
 
 Please ensure your code follows Swift best practices and includes appropriate comments and documentation.
 
